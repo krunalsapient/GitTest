@@ -5,6 +5,7 @@ public class AdjustmentInfo
         {   
           get;   
           set;   
+		  // hello
         }      
     public AdjustmentInfo ()  
         {  
